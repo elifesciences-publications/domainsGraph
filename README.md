@@ -1,6 +1,9 @@
 # domainsGraph
 Generates a single figure that combines ConSurf, PSIPRED, DISOPRED and PFAM data.
 
+### This code is associated with the paper from Patel et al., "Architecture of the chromatin remodeler RSC and insights into its nucleosome engagement". eLife, 2019. http://dx.doi.org/10.7554/eLife.54449
+
+
 An example of files needed and resulting outputs are provided in the TBP directory.
 
 ![Image of Demo](https://github.com/avibpatel/Domains/blob/master/Figures/Demo.png)
